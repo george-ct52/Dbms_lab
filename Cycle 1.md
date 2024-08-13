@@ -33,8 +33,9 @@ b) Department (dept_no varchar, dept_name varchar, location varchar)
 5. Display the structure of the Employee table and Department table.
 6. Add a new column ‘Designation’ to the table Employee.
 7. Drop the column ‘location’ from Department table.
-Experiment No: 2
-Familiarization of SQL Constraints.
+
+# Experiment No: 2
+## Familiarization of SQL Constraints.
 1. Create new table Persons with attributes PersonID (integer, PRIMARY KEY),
 Name (varchar , NOT NULL), Aadhar (Number, NOT NULL, UNIQUE), Age
 (integer , CHECK>18).
@@ -48,8 +49,9 @@ PersonID referencing the column PersonId of Person table)
 7. Add dept_no in Employee table as the foreign key reference to the table Department
 with on delete cascade.
 8. Drop the primary key of the table Orders.
-Experiment No: 3
-Familiarization of DML Commands.
+
+# Experiment No: 3
+## Familiarization of DML Commands.
 1. Add at least 10 rows into the table Employee and Department.
 2. Display all the records from the above tables.
 3. Display the emp_no and name of employees from department no ‘D02’.
