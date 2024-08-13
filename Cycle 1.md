@@ -1,4 +1,4 @@
-LAB CYCLE 1
+#LAB CYCLE 1
 Experiment No: 1
 Familiarization of DDL Commands
 Data Definition Language (DDL) - These SQL commands are used for creating, modifying,
